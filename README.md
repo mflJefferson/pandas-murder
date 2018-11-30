@@ -5,7 +5,9 @@ Esse repositório tem como objetivo analisar o número de homicídios em SJC e r
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
 **Aluno**: Jefferson de Moura
+
 **Aluno**: Vitor Hugo
+
 **Aluno**: Yasmin Araújo
 
 **Professor**: Me. Fernando Masanori Ashikaga
