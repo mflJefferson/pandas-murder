@@ -11,3 +11,5 @@ Esse repositório tem como objetivo analisar o número de homicídios em SJC e r
 **Aluno**: Yasmin Araújo
 
 **Professor**: Me. Fernando Masanori Ashikaga
+
+**1º Semestre ADS/Turma A - Algoritmos e Lógica de Programação**
